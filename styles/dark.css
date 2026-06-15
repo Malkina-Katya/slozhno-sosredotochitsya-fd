@@ -16,3 +16,7 @@
   --title-color: #db00ff;
   --text-color: #f1b2ce;
 }
+
+:root.theme-dark .header__rec {
+  display: flex;
+}
