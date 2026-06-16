@@ -21,7 +21,7 @@
     --text-color: #f1b2ce;
   }
 
-  :root:not(.theme-dark) .header__rec {
-    display: none;
+  :root:not(.theme-light) .header__rec {
+    display: flex;
   }
 }
